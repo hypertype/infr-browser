@@ -44,7 +44,7 @@
     "@hypertype/infr": "latest"
   },
   "devDependencies": {
-    "@hypertype/core": "^2.0.0",
+    "@hypertype/core": "^4.0.12-cmmn",
     "@hypertype/tools": "^2.0.0",
     "@hypertype/infr": "^2.0.0"
   },
